@@ -39,7 +39,7 @@ Software: R Studio, Visual Studio, Jupyter Hub
 ### Testing the Mysteries of Food Effects (R)
 [Full Report](/assets/Testing_the_Mysteries_of_Food_Effects.pdf)
 
-Based on the speculation of GMOs to health effects, my partner and I wanted to explore its relationship to one type of chroniccondition, cancer, that is often linked to nutrition and lifestyle factors. In also considering the effect of food andnutrition on the development of chronic conditions, we were also looking at the regulations through legislationon the effect of food production quality which could impact cancer incidence. We expected to find that the increase of GMO could correlate to an increase in cancer incidence and death rates as well as policy rates increasing being effective at protecting the quality of nutrients in the food market that could lower cancer rates.
+Based on the speculation of GMOs to health effects, my partner and I wanted to explore its relationship to one type of chronic condition, cancer, that is often linked to nutrition and lifestyle factors. In also considering the effect of food andnutrition on the development of chronic conditions, we were also looking at the regulations through legislation on the effect of food production quality which could impact cancer incidence. We expected to find that the increase of GMO could correlate to an increase in cancer incidence and death rates as well as policy rates increasing being effective at protecting the quality of nutrients in the food market that could lower cancer rates.
 
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/88771e61-78b6-44f4-8098-3739e13fd82f)
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/0eb8e8ab-f93d-4b4b-9f02-dbd1781b51d8)
