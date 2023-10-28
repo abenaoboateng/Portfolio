@@ -1,7 +1,6 @@
 
 
-<img width="235" alt="Abena_Headshot_1_MB" src="https://github.com/abenaoboateng/Portfolio/assets/126977392/6ac7acc0-02ef-44f6-b137-a013a5fab9aa">
-
+<img width="300" alt="Abena_Headshot_1_MB" src="https://github.com/abenaoboateng/Portfolio/assets/126977392/6ac7acc0-02ef-44f6-b137-a013a5fab9aa">
 
 
 
