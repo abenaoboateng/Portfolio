@@ -1,9 +1,10 @@
 # Maame Abena Boateng 
 Future Data Scientist and Quantative UX Researcher 
-Student at the University of Texas at Austin, Class of 2025 
-[LinkedIn](https://www.linkedin.com/in/abena-boateng-/) & [resume](/assets/Maame_Abena_Boateng_Official.pdf).
+
+[LinkedIn](https://www.linkedin.com/in/abena-boateng-/) & [Resume](/assets/Maame_Abena_Boateng_Official.pdf).
 
 ### Education 
+Student at the University of Texas at Austin, Class of 2025                                               
 Public Health Biostatistics and Informatics, BS
 Applied Statistical Modeling Certficate
 
