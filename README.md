@@ -36,7 +36,7 @@ Software: R Studio, Visual Studio, Jupyter Hub
 
 
 # Projects 
-**Testing the Mysteries of Food Effects (R)**	
+### Testing the Mysteries of Food Effects (R)
 [Full Report](/assets/Testing_the_Mysteries_of_Food_Effects.pdf)
 
 Based on the speculation of GMOs to health effects, my partner and I wanted to explore its relationship to one type of chroniccondition, cancer, that is often linked to nutrition and lifestyle factors. In also considering the effect of food andnutrition on the development of chronic conditions, we were also looking at the regulations through legislationon the effect of food production quality which could impact cancer incidence. We expected to find that the increase of GMO could correlate to an increase in cancer incidence and death rates as well as policy rates increasing being effective at protecting the quality of nutrients in the food market that could lower cancer rates.
@@ -47,7 +47,7 @@ Based on the speculation of GMOs to health effects, my partner and I wanted to e
 
 
 **Findings:**
-***Do genetically engineered crops seem to have an infl uence on the cancer incidence rate and death rate inthe United States?**
+***Do genetically engineered crops seem to have an infl uence on the cancer incidence rate and death rate in the United States?**
 
 Within our research research we hypothesized that the increase of GMO could correlate to an increase in cancerincidence and death rates. In Fig 1.8,visualization created to view the possible relationship between the amount of cancer deaths, the cancer rate and the total GMO adoption amounts for different given years, there seems to be a connection between all 3 variables. Within this visualization we see that as the years go by there is an increase in GMO adoptions and a constant range in cancer deaths over the years. Although the incidence rate decreases abit in the latter years there is a more widespread distribution of deaths caused by Cancer. Within our visualization we see that the Cancer Incidence Rate used for this analysis report has a normal distribution with an average of 171.5 incidents of cancer per 100,000 people. This rate utilized can further explain why there is not much change in the incidence rate within our visualization throughout the years as the mean value within each state likely varied 16.06 standard deviations. Despite the clear negative correlation in Fig 1.6 between GMO Adoption and Cancer Deaths, the Fig 1.8 showing the relationship between cancer deaths and incidence displays that more GMO adoptions per year has some slight correlation to more cancerous deaths.
 
@@ -61,9 +61,29 @@ Within this research research we hypothesized that with an increase in food poli
 
 The scatterplot of the three variables and their relationships have visualized the inconsistent effect policy billshave on the impact of cancerous deaths despite the amount of GMO adoptions.
 
-**Attributes of Billed Health Insurance Costs (R, Python)**
+### Attributes of Billed Health Insurance Costs (R, Python)
 [Full Report](/assets/Investigating_the_Attributes_of_Billed_Health_Insurance_Costs.pdf)    
+The dataset is known as US Health Insurance Dataset retrieved from Kaggle at:[Kaggle Insurance DataSet](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset)
+Within this dataset the insurance charge is listed and given with other attributes Age, Sex, BMI, Number of Children, Smoker and Region with atotal of 1338 patients as observations.
+Through the creation of classification and prediction models we expected there to be attributes of more significance that directly effect the effectiveness of the models produced. The biggest predictors are expected to be Age, BMI, Children and Smoker Status each being positively related. These stronger correlations are expected to aid in the best classification models being produced from this exploration.
 
+![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/31b4cd81-fd08-47f1-8e2d-a5d8d1421843)
+
+![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/42afde1a-8382-4084-8820-dc43f63a119e)
+![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/06804659-2345-4f74-9cd2-97dbb11f7f16)
+![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/c2ee8855-fddb-4ef9-8dd7-742f36d88772)
+![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/d15defe4-6a8c-4d6f-a023-7ba92127163c)
+
+![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/ff7f30c4-af8a-4bb0-bea6-62316ae22fc4)
+![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/bbc48267-c89c-4069-804c-635467493b29)
+![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/0e815f4e-5c91-4166-baf0-273aa5e5c2b6)
+
+
+***Are the age and body mass index of a primary benefi ciary member signifi cant predictors of the individual medical costs billed by healthinsurance companies?**
+By no means was this project easy, however the challenge itself highlighted the importance of good and clean data. Based upon our research we witness that individuals who are higher in age are at risk of experience higher insurance charges.Our evidence for this can be attributed to Fig 1.1 In which we explore the relationship between Age and Charges and realize that there is anevidence of a relationship. Although it contributes to greatly to our first dimension with a value of 35.1 percent, its evident that is not a good predictor of individual medical costs billed by insurance companies being that there are similar value points between all clusters for Age and BMIexhibits little contribution to the first dimension explaining the variance of our variables with our data.
+
+**Is smoking status, regional area, and number of children of the benefi ciary member on an insurance plan eff ective classifi ers for themedical costs billed by the health insurance companies?**
+To effectively classify the medical costs utilizing the variables smoker status, region,and number of children on the insurance plan through a logistic regression model has produced less than effective results. Using the root square mean value to discern the error margin a large value of approximately $7,500 produce, identifying this limitation significantly skewed predicted charges that affect accurate classification. Creating PAM clustering with the categorical variables using Gower’s dissimilarities hints this idea of smoking status being the prime significant effect in classification by the only two ‘yes’ clusters by having well over average billed health insurance charges. Despite the limitations of the model, some discernment of the effect of the variables can be deciphered knowing that smoking status is significant and number of children having some slight impact while region appears insignificant.
 
 # Leadership and Professional Development 
 **Management Leadership for Tomorrow (MLT)** 						                                    
