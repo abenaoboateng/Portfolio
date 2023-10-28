@@ -78,7 +78,7 @@ Through the creation of classification and prediction models we expected there t
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/0e815f4e-5c91-4166-baf0-273aa5e5c2b6)
 
 
-***Are the age and body mass index of a primary beneficiary member significant predictors of the individual medical costs billed by health insurance companies?**
+**Are the age and body mass index of a primary beneficiary member significant predictors of the individual medical costs billed by health insurance companies?**
 By no means was this project easy, however the challenge itself highlighted the importance of good and clean data. Based upon our research we witness that individuals who are higher in age are at risk of experience higher insurance charges.Our evidence for this can be attributed to Fig 1.1 In which we explore the relationship between Age and Charges and realize that there is anevidence of a relationship. Although it contributes to greatly to our first dimension with a value of 35.1 percent, its evident that is not a good predictor of individual medical costs billed by insurance companies being that there are similar value points between all clusters for Age and BMIexhibits little contribution to the first dimension explaining the variance of our variables with our data.
 
 **Is smoking status, regional area, and number of children of the benefi ciary member on an insurance plan eff ective classifiers for the medical costs billed by the health insurance companies?**
