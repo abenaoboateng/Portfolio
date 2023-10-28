@@ -1,4 +1,4 @@
-# Maame Abena Boateng 
+## Maame Abena Boateng 
 Future Data Scientist and Quantative UX Researcher 
 
 ### Education 
