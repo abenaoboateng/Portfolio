@@ -59,30 +59,29 @@ The relationships portrayed through the visualizations lead us to a conclusion t
 
 Within this research research we hypothesized that with an increase in food policy bills there would be a decrease in cancer deaths. In addition to this, the policy rates increasing are effective at protecting the quality of nutrients in the food market that could lower cancer rates. In Fig 1.6, a tri-variate graph represents the relationship between Cancer Death Rate, GMO Adoption and Total Policy Number, the higher the policy number pertaining to GMO adoption the lower the amount of deaths relating to cancer. In the visualization above, most of the data points,with a super high policy number and GMO adoption amount also have low cancer deaths, are clustered in the bottom right. In a similar manner we see a couple of high policy numbers pertaining to high cancer deaths at the top of the visualization with higher death rates, this could be related to legislation being created as a result of thehigh cancer deaths and not as a preventative measure.In further support of this relationship the skewed distribution of Deaths, the median deaths per 100,000 incidents to report is 11958 with the IQR reporting at 13641.
 
-The scatterplot of the three variables and their relationships have visualized the inconsistent effect policy billshave on the impact of cancerous deaths despite the amount of GMO adoptions.
+The scatterplot of the three variables and their relationships have visualized the inconsistent effect policy bills have on the impact of cancerous deaths despite the amount of GMO adoptions.
 
 ### Attributes of Billed Health Insurance Costs (R, Python)
 [Full Report](/assets/Investigating_the_Attributes_of_Billed_Health_Insurance_Costs.pdf)    
 The dataset is known as US Health Insurance Dataset retrieved from Kaggle at:[Kaggle Insurance DataSet](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset)
+
 Within this dataset the insurance charge is listed and given with other attributes Age, Sex, BMI, Number of Children, Smoker and Region with atotal of 1338 patients as observations.
 Through the creation of classification and prediction models we expected there to be attributes of more significance that directly effect the effectiveness of the models produced. The biggest predictors are expected to be Age, BMI, Children and Smoker Status each being positively related. These stronger correlations are expected to aid in the best classification models being produced from this exploration.
 
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/31b4cd81-fd08-47f1-8e2d-a5d8d1421843)
-
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/42afde1a-8382-4084-8820-dc43f63a119e)
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/06804659-2345-4f74-9cd2-97dbb11f7f16)
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/c2ee8855-fddb-4ef9-8dd7-742f36d88772)
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/d15defe4-6a8c-4d6f-a023-7ba92127163c)
-
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/ff7f30c4-af8a-4bb0-bea6-62316ae22fc4)
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/bbc48267-c89c-4069-804c-635467493b29)
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/0e815f4e-5c91-4166-baf0-273aa5e5c2b6)
 
 
-***Are the age and body mass index of a primary benefi ciary member signifi cant predictors of the individual medical costs billed by healthinsurance companies?**
+***Are the age and body mass index of a primary beneficiary member significant predictors of the individual medical costs billed by health insurance companies?**
 By no means was this project easy, however the challenge itself highlighted the importance of good and clean data. Based upon our research we witness that individuals who are higher in age are at risk of experience higher insurance charges.Our evidence for this can be attributed to Fig 1.1 In which we explore the relationship between Age and Charges and realize that there is anevidence of a relationship. Although it contributes to greatly to our first dimension with a value of 35.1 percent, its evident that is not a good predictor of individual medical costs billed by insurance companies being that there are similar value points between all clusters for Age and BMIexhibits little contribution to the first dimension explaining the variance of our variables with our data.
 
-**Is smoking status, regional area, and number of children of the benefi ciary member on an insurance plan eff ective classifi ers for themedical costs billed by the health insurance companies?**
+**Is smoking status, regional area, and number of children of the benefi ciary member on an insurance plan eff ective classifiers for the medical costs billed by the health insurance companies?**
 To effectively classify the medical costs utilizing the variables smoker status, region,and number of children on the insurance plan through a logistic regression model has produced less than effective results. Using the root square mean value to discern the error margin a large value of approximately $7,500 produce, identifying this limitation significantly skewed predicted charges that affect accurate classification. Creating PAM clustering with the categorical variables using Gower’s dissimilarities hints this idea of smoking status being the prime significant effect in classification by the only two ‘yes’ clusters by having well over average billed health insurance charges. Despite the limitations of the model, some discernment of the effect of the variables can be deciphered knowing that smoking status is significant and number of children having some slight impact while region appears insignificant.
 
 # Leadership and Professional Development 
