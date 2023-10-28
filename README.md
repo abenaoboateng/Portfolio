@@ -60,9 +60,7 @@ Corporate Officer
 -	Coordinate and execute hackathons and personal projects for members to become well rounded
 
 # Interests 
-Languages: Fluent in Spanish, Twi    
-
+Languages: Fluent in Spanish, Twi 
 Interests: Artificial Intelligence, Data Science, Quantitative UX Research, Business Technology Solutions, HealthTech
-
 Work Eligibility: Eligible to work in the U.S. with no restrictions
 
