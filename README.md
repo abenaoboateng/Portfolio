@@ -39,6 +39,8 @@ Software: R Studio, Visual Studio, Jupyter Hub
 ### Testing the Mysteries of Food Effects (R)
 [Full Report](/assets/Testing_the_Mysteries_of_Food_Effects.pdf)
 
+The dataset is known as 'Cancer' retrieved from CDC's division "United States Cancer Statistics" at: [CDC Cancer Dataset](https://www.cdc.gov/cancer/uscs/)
+
 Based on the speculation of GMOs to health effects, my partner and I wanted to explore its relationship to one type of chronic condition, cancer, that is often linked to nutrition and lifestyle factors. In also considering the effect of food andnutrition on the development of chronic conditions, we were also looking at the regulations through legislation on the effect of food production quality which could impact cancer incidence. We expected to find that the increase of GMO could correlate to an increase in cancer incidence and death rates as well as policy rates increasing being effective at protecting the quality of nutrients in the food market that could lower cancer rates.
 
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/88771e61-78b6-44f4-8098-3739e13fd82f)
@@ -64,7 +66,7 @@ The scatterplot of the three variables and their relationships have visualized t
 
 ### Attributes of Billed Health Insurance Costs (R, Python)
 [Full Report](/assets/Investigating_the_Attributes_of_Billed_Health_Insurance_Costs.pdf)    
-The dataset is known as US Health Insurance Dataset retrieved from Kaggle at:[Kaggle Insurance DataSet](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset)
+The dataset is known as US Health Insurance Dataset retrieved from Kaggle at: [Kaggle Insurance DataSet](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset)
 
 Within this dataset the insurance charge is listed and given with other attributes Age, Sex, BMI, Number of Children, Smoker and Region with atotal of 1338 patients as observations.
 Through the creation of classification and prediction models we expected there to be attributes of more significance that directly effect the effectiveness of the models produced. The biggest predictors are expected to be Age, BMI, Children and Smoker Status each being positively related. These stronger correlations are expected to aid in the best classification models being produced from this exploration.
