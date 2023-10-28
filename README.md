@@ -1,6 +1,5 @@
 # Maame Abena Boateng 
-Future Data Scientist and Quantative UX Researcher 
-
+Future Data Scientist and Quantative UX Researcher      
 [LinkedIn](https://www.linkedin.com/in/abena-boateng-/) & [Resume](/assets/Maame_Abena_Boateng_Official.pdf).
 
 ### Education 
