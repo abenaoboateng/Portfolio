@@ -31,7 +31,7 @@ Software: R Studio, Visual Studio, Jupyter Hub
 - Conducted research on automation solutions with generative AI initiatives for Company Partners 
 
 **Lead Coding Lab Teaching Assistant in R and Python**                                              
-- Nurture students exploration and examination of data science tools such as data wranglingnexploratory data analysis 
+- Nurture students exploration and examination of data science tools such as data wrangling, and exploratory data analysis 
 - Facilitate the learning of data visualization methods, markdown and data workflow and classification methods
 - Emphasize the importance and applications of R and Python languages to improve student growth and learning
 
