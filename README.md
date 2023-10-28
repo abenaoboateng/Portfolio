@@ -15,42 +15,42 @@ Programming Languages: Advanced – R, Proficient  – Python, SQL Familiar with
 Software: R Studio, Visual Studio, Jupyter Hub
 
 ### Work Experience 
-# Deloitte 		                                                                                 
+Deloitte 		                                                                                 
 AI and Data Engineering Intern, Bussiness Technology Solutions	- US Government          
-Visualized test data using Python and R programming to showcase a 9% impact from automation to clients
--	Developed Data System Solutions using SDLC that solved 11% of database issues with system communication
+- Visualized test data using Python and R programming to showcase a 9% impact from automation to clients
+- Developed Data System Solutions using SDLC that solved 11% of database issues with system communication
 - Conducted research on automation solutions with generative AI initiatives for Company Partners 
 
-# Lead Coding Lab Teaching Assistant in R and Python                                              
+Lead Coding Lab Teaching Assistant in R and Python                                              
 -Nurture students exploration and examination of data science tools such as data wranglingnexploratory data analysis 
 -Facilitate the learning of data visualization methods, markdown and data workflow and classification methods
 -Emphasize the importance and applications of R and Python languages to improve student growth and learning
 
 
 ### Projects 
-# Testing the Mysteries of Food Effects (R)					         
+Testing the Mysteries of Food Effects (R)					         
 -Deployed tidyverse to explore the effects of GMO crops influence on cancer rates death rates, and food policy bills
 -Utilized data visualization and data wrangling principles to discover a statistically significant relationship 
 
-# Attributes of Billed Health Insurance Costs (R, Python)					         
+Attributes of Billed Health Insurance Costs (R, Python)					         
 -Evaluated the several predictors of high insurance costs with logistic regression analysis and kNN classification
 -Revealed a statistically significant the relationship of predictors such as Age, BMI with matrices and clustering
 -Implored the prediction and cross validation of models with PAM clustering, PCA analysis and dimension reduction
 
 ### Leadership and Professional Development 
-# Management Leadership for Tomorrow (MLT) 						                                    
+Management Leadership for Tomorrow (MLT) 						                                    
 Career Preparation Fellow									                                              
 -	Selected among thousands of high achieving applicants to participate in professional and leadership development
 -	Complete business case studies and assignments to grow leadership and technical skills
 -	Attend conferences hosted by industry leaders, such as Deloitte, LinkedIn, and Target
 
-# herScript(Black Women in Tech)			             	               	                      
+herScript(Black Women in Tech)			             	               	                      
 Co-Founder & Co-President 								                                               
 -	Facilitate and Initiate opportunities such as Workshops, Corporate Relationships, and Professional Development
 -	Expose ways to apply the technology world to different industries such as healthcare and entertainment	
 -	Increasing the Black Women in Tech on campus by 40% by emphasizing personal development and authenticity 
 
-# Association of Black Computer Scientists          			             	               	    
+Association of Black Computer Scientists          			             	               	    
 Corporate Officer             								                                           
 -	Facilitate and Initiate opportunities such as workshops, corporate relationships, and professional development
 -	Coordinate and execute hackathons and personal projects for members to become well rounded
