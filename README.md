@@ -47,7 +47,8 @@ Based on the speculation of GMOs to health effects, my partner and I wanted to e
 
 
 **Findings:**
-***Do genetically engineered crops seem to have an infl uence on the cancer incidence rate and death rate in the United States?**
+
+**Do genetically engineered crops seem to have an infl uence on the cancer incidence rate and death rate in the United States?**
 
 Within our research research we hypothesized that the increase of GMO could correlate to an increase in cancerincidence and death rates. In Fig 1.8,visualization created to view the possible relationship between the amount of cancer deaths, the cancer rate and the total GMO adoption amounts for different given years, there seems to be a connection between all 3 variables. Within this visualization we see that as the years go by there is an increase in GMO adoptions and a constant range in cancer deaths over the years. Although the incidence rate decreases abit in the latter years there is a more widespread distribution of deaths caused by Cancer. Within our visualization we see that the Cancer Incidence Rate used for this analysis report has a normal distribution with an average of 171.5 incidents of cancer per 100,000 people. This rate utilized can further explain why there is not much change in the incidence rate within our visualization throughout the years as the mean value within each state likely varied 16.06 standard deviations. Despite the clear negative correlation in Fig 1.6 between GMO Adoption and Cancer Deaths, the Fig 1.8 showing the relationship between cancer deaths and incidence displays that more GMO adoptions per year has some slight correlation to more cancerous deaths.
 
@@ -77,11 +78,12 @@ Through the creation of classification and prediction models we expected there t
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/bbc48267-c89c-4069-804c-635467493b29)
 ![image](https://github.com/abenaoboateng/Portfolio/assets/126977392/0e815f4e-5c91-4166-baf0-273aa5e5c2b6)
 
+**Findings:**
 
 **Are the age and body mass index of a primary beneficiary member significant predictors of the individual medical costs billed by health insurance companies?**
 By no means was this project easy, however the challenge itself highlighted the importance of good and clean data. Based upon our research we witness that individuals who are higher in age are at risk of experience higher insurance charges.Our evidence for this can be attributed to Fig 1.1 In which we explore the relationship between Age and Charges and realize that there is anevidence of a relationship. Although it contributes to greatly to our first dimension with a value of 35.1 percent, its evident that is not a good predictor of individual medical costs billed by insurance companies being that there are similar value points between all clusters for Age and BMIexhibits little contribution to the first dimension explaining the variance of our variables with our data.
 
-**Is smoking status, regional area, and number of children of the benefi ciary member on an insurance plan eff ective classifiers for the medical costs billed by the health insurance companies?**
+**Is smoking status, regional area, and number of children of the benefi ciary member on an insurance plan effective classifiers for the medical costs billed by the health insurance companies?**
 To effectively classify the medical costs utilizing the variables smoker status, region,and number of children on the insurance plan through a logistic regression model has produced less than effective results. Using the root square mean value to discern the error margin a large value of approximately $7,500 produce, identifying this limitation significantly skewed predicted charges that affect accurate classification. Creating PAM clustering with the categorical variables using Gower’s dissimilarities hints this idea of smoking status being the prime significant effect in classification by the only two ‘yes’ clusters by having well over average billed health insurance charges. Despite the limitations of the model, some discernment of the effect of the variables can be deciphered knowing that smoking status is significant and number of children having some slight impact while region appears insignificant.
 
 # Leadership and Professional Development 
