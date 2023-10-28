@@ -34,7 +34,7 @@ Software: R Studio, Visual Studio, Jupyter Hub
 - Utilized data visualization and data wrangling principles to discover a statistically significant relationship 
 
 **Attributes of Billed Health Insurance Costs (R, Python)**
-[Full Report](/assets/Investigating_the_Attributes_of_Billed_Health_ Insurance_Costs.pdf)  
+[Full Report](/assets/Investigating_the_Attributes_of_Billed_Health_Insurance_Costs.pdf)    
 - Evaluated the several predictors of high insurance costs with logistic regression analysis and kNN classification
 - Revealed a statistically significant the relationship of predictors such as Age, BMI with matrices and clustering
 - Implored the prediction and cross validation of models with PAM clustering, PCA analysis and dimension reduction
