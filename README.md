@@ -12,7 +12,8 @@ Data Analysis for Health Sciences, Genetics and Biostatistics with R software,
 Elements of Data Science with R, SQL and Python, Calculus, Probability and Statistics
 
 ## Technical Skills 
-Programming Languages: Advanced – R, Proficient  – Python, SQL Familiar with HTML
+Programming Languages: Advanced – R, Proficient  – Python, SQL Familiar – with HTML
+
 Software: R Studio, Visual Studio, Jupyter Hub
 
 # Work Experience 
