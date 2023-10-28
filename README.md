@@ -15,8 +15,7 @@ Programming Languages: Advanced – R, Proficient  – Python, SQL Familiar with
 Software: R Studio, Visual Studio, Jupyter Hub
 
 ### Work Experience 
-Deloitte 		                                                                                 
-AI and Data Engineering Intern, Bussiness Technology Solutions	- US Government          
+**Deloitte** 		                                                                                **AI and Data Engineering Intern, Bussiness Technology Solutions	- US Government**         
 - Visualized test data using Python and R programming to showcase a 9% impact from automation to clients
 - Developed Data System Solutions using SDLC that solved 11% of database issues with system communication
 - Conducted research on automation solutions with generative AI initiatives for Company Partners 
