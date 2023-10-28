@@ -28,7 +28,9 @@ Software: R Studio, Visual Studio, Jupyter Hub
 
 
 ### Projects 
-**Testing the Mysteries of Food Effects (R)**					         
+**Testing the Mysteries of Food Effects (R)**	
+[Full Report]
+
 - Deployed tidyverse to explore the effects of GMO crops influence on cancer rates death rates, and food policy bills
 - Utilized data visualization and data wrangling principles to discover a statistically significant relationship 
 
