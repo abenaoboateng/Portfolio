@@ -9,7 +9,7 @@ Future Data Scientist and Quantitative UX Researcher
 [LinkedIn](https://www.linkedin.com/in/abena-boateng-/) &  [Resume](assets/Maame_Abena_Boateng_Resume_Official.pdf) 
 
 # Education 
-Student at the University of Texas at Austin, Class of 2025                                               
+Student at the University of Texas at Austin, May 2025                                               
 Public Health Biostatistics and Informatics, BS
 Applied Statistical Modeling Certficate
 
@@ -59,9 +59,9 @@ Based on the speculation of GMOs to health effects, my partner and I wanted to e
 
 Within our research research we hypothesized that the increase of GMO could correlate to an increase in cancerincidence and death rates. In Fig 1.8,visualization created to view the possible relationship between the amount of cancer deaths, the cancer rate and the total GMO adoption amounts for different given years, there seems to be a connection between all 3 variables. Within this visualization we see that as the years go by there is an increase in GMO adoptions and a constant range in cancer deaths over the years. Although the incidence rate decreases abit in the latter years there is a more widespread distribution of deaths caused by Cancer. Within our visualization we see that the Cancer Incidence Rate used for this analysis report has a normal distribution with an average of 171.5 incidents of cancer per 100,000 people. This rate utilized can further explain why there is not much change in the incidence rate within our visualization throughout the years as the mean value within each state likely varied 16.06 standard deviations. Despite the clear negative correlation in Fig 1.6 between GMO Adoption and Cancer Deaths, the Fig 1.8 showing the relationship between cancer deaths and incidence displays that more GMO adoptions per year has some slight correlation to more cancerous deaths.
 
-When taking a closer look at the potential differences by crop type in Fig 1.7, there are clear diff rences as cottonis the only crop with a positive correlation between incidence rate and GMO adoption. The other two havenegative correlations with the corn being highly negative and soybean being slightly negative because cotton isused significantly less as a food product than the other two crop types this a limitation of our study.
+When taking a closer look at the potential differences by crop type in Fig 1.7, there are clear diffrences as cotton is the only crop with a positive correlation between incidence rate and GMO adoption. The other two have negative correlations with the corn being highly negative and soybean being slightly negative because cotton is used significantly less as a food product than the other two crop types  therefore becoming a limitation of our study.
 
-The relationships portrayed through the visualizations lead us to a conclusion that GMO adoption is not asignificant predictor for cancerous deaths, but may have some impact on cancer incidience development.
+The relationships portrayed through the visualizations lead us to a conclusion that GMO adoption is not a significant predictor for cancerous deaths, but may have some impact on cancer incidience development.
 
 **What is the relationship between the number of food policy bills and the cancer incidence and death rates over years?**
 
@@ -89,7 +89,7 @@ Within this dataset the insurance charge is listed and given with other attribut
 
 **Are the age and body mass index of a primary beneficiary member significant predictors of the individual medical costs billed by health insurance companies?**
 
-By no means was this project easy, however the challenge itself highlighted the importance of good and clean data. Based upon our research we witness that individuals who are higher in age are at risk of experience higher insurance charges.Our evidence for this can be attributed to Fig 1.1 In which we explore the relationship between Age and Charges and realize that there is anevidence of a relationship. Although it contributes to greatly to our first dimension with a value of 35.1 percent, its evident that is not a good predictor of individual medical costs billed by insurance companies being that there are similar value points between all clusters for Age and BMIexhibits little contribution to the first dimension explaining the variance of our variables with our data.
+By no means was this project easy, however the challenge itself highlighted the importance of good and clean data. Based upon our research we witness that individuals who are higher in age are at risk of experience higher insurance charges.Our evidence for this can be attributed to Fig 1.1 In which we explore the relationship between Age and Charges and realize that there is anevidence of a relationship. Although it contributes to greatly to our first dimension with a value of 35.1 percent, its evident that is not a good predictor of individual medical costs billed by insurance companies being that there are similar value points between all clusters for Age and BMI exhibits little contribution to the first dimension explaining the variance of our variables with our data.
 
 **Is smoking status, regional area, and number of children of the benefi ciary member on an insurance plan effective classifiers for the medical costs billed by the health insurance companies?**
 
