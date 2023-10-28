@@ -22,20 +22,20 @@ AI and Data Engineering Intern, Bussiness Technology Solutions	- US Government
 - Conducted research on automation solutions with generative AI initiatives for Company Partners 
 
 Lead Coding Lab Teaching Assistant in R and Python                                              
--Nurture students exploration and examination of data science tools such as data wranglingnexploratory data analysis 
--Facilitate the learning of data visualization methods, markdown and data workflow and classification methods
--Emphasize the importance and applications of R and Python languages to improve student growth and learning
+- Nurture students exploration and examination of data science tools such as data wranglingnexploratory data analysis 
+- Facilitate the learning of data visualization methods, markdown and data workflow and classification methods
+- Emphasize the importance and applications of R and Python languages to improve student growth and learning
 
 
 ### Projects 
 Testing the Mysteries of Food Effects (R)					         
--Deployed tidyverse to explore the effects of GMO crops influence on cancer rates death rates, and food policy bills
--Utilized data visualization and data wrangling principles to discover a statistically significant relationship 
+- Deployed tidyverse to explore the effects of GMO crops influence on cancer rates death rates, and food policy bills
+- Utilized data visualization and data wrangling principles to discover a statistically significant relationship 
 
 Attributes of Billed Health Insurance Costs (R, Python)					         
--Evaluated the several predictors of high insurance costs with logistic regression analysis and kNN classification
--Revealed a statistically significant the relationship of predictors such as Age, BMI with matrices and clustering
--Implored the prediction and cross validation of models with PAM clustering, PCA analysis and dimension reduction
+- Evaluated the several predictors of high insurance costs with logistic regression analysis and kNN classification
+- Revealed a statistically significant the relationship of predictors such as Age, BMI with matrices and clustering
+- Implored the prediction and cross validation of models with PAM clustering, PCA analysis and dimension reduction
 
 ### Leadership and Professional Development 
 Management Leadership for Tomorrow (MLT) 						                                    
