@@ -1,4 +1,5 @@
-# Future Data Scientist and Quantative UX Researcher 
+# Maame Abena Boateng 
+Future Data Scientist and Quantative UX Researcher 
 
 ### Education 
 Public Health Biostatistics and Informatics, BS
