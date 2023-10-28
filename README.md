@@ -1,3 +1,10 @@
+
+
+<img width="235" alt="Abena_Headshot_1_MB" src="https://github.com/abenaoboateng/Portfolio/assets/126977392/6ac7acc0-02ef-44f6-b137-a013a5fab9aa">
+
+
+
+
 # Maame Abena Boateng 
 Future Data Scientist and Quantative UX Researcher      
 [LinkedIn](https://www.linkedin.com/in/abena-boateng-/) & [Resume](assets/Maame_Abena_Boateng_Resume_Official.pdf) 
