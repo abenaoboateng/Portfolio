@@ -15,7 +15,9 @@ Applied Statistical Modeling Certficate
 
 ## Relevant Coursework: 
 Data Analysis for Health Sciences, Genetics and Biostatistics with R software,
-Elements of Data Science with R, SQL and Python, Calculus, Probability and Statistics
+Elements of Data Science with R, SQL and Python, Calculus, Probability and Statistics, 
+Elements of Computer Programming, Data Visualization in R, Health Behavior Theory, 
+Health Policy 
 
 ## Technical Skills 
 Programming Languages: Advanced – R, Proficient  – Python, SQL Familiar – with HTML
