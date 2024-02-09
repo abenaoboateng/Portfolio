@@ -9,9 +9,11 @@ Aspiring Data Scientist and Quantitative UX Researcher
 [LinkedIn](https://www.linkedin.com/in/abena-boateng-/) &  [Resume](assets/Maame_Abena_Boateng_Resume_Official.pdf) 
 
 # Education 
-Student at the University of Texas at Austin, May 2025                                               
-Public Health Biostatistics and Informatics, BS
-Applied Statistical Modeling Certficate
+The University of Texas at Austin (_May 2025_)
+- B.S., Public Health Biostatistics and Informatics 
+- Certficate, Applied Statistical Modeling
+- Certficate, Business Spanish 
+- Certficate, Spanish for Medical Professions
 
 ## Relevant Coursework: 
 Data Analysis for Health Sciences, Genetics and Biostatistics with R software,
@@ -21,19 +23,18 @@ Health Policy
 
 ## Technical Skills 
 Programming Languages: Advanced – R, Proficient  – Python, SQL Familiar – with HTML
-
 Software: R Studio, Visual Studio, Jupyter Hub
 
 # Work Experience 
 **Deloitte** 		                                                                           
-**AI and Data Engineering Intern, Bussiness Technology Solutions	- US Government**         
+**AI and Data Engineering Intern, Bussiness Technology Solutions	- US Government(_June 2023 - Aug 2023_)**         
 - Visualized test data using Python and R programming to showcase a 9% impact from automation to clients
   
 - Developed Data System Solutions using SDLC that solved 11% of database issues with system communication
   
 - Conducted research on automation solutions with generative AI initiatives for Company Partners 
 
-**Lead Coding Lab Teaching Assistant in R and Python**                                              
+**Lead Coding Lab Teaching Assistant in R and Python(_Aug 2023 - Present_)**                                              
 - Nurture students exploration and examination of data science tools such as data wrangling, and exploratory data analysis
 
 - Facilitate the learning of data visualization methods, markdown and data workflow and classification methods
