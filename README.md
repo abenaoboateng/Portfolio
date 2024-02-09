@@ -100,7 +100,7 @@ To effectively classify the medical costs utilizing the variables smoker status,
 
 # Leadership and Professional Development 
 **Management Leadership for Tomorrow (MLT)** 						                                    
-Career Preparation Fellow									                                              
+**Career Preparation Fellow**								                                              
 -	Selected among thousands of high achieving applicants to participate in professional and leadership development
 
 -	Complete business case studies and assignments to grow leadership and technical skills
@@ -108,7 +108,7 @@ Career Preparation Fellow
 -	Attend conferences hosted by industry leaders, such as Deloitte, LinkedIn, and Target
 
 **herScript(Black Women in Tech)**			             	               	                      
-Co-Founder & Co-President 								                                               
+**Co-Founder & Co-President** 								                                               
 -	Facilitate and Initiate opportunities such as Workshops, Corporate Relationships, and Professional Development
 
 -	Expose ways to apply the technology world to different industries such as healthcare and entertainment	
@@ -116,15 +116,15 @@ Co-Founder & Co-President
 -	Increasing the Black Women in Tech on campus by 40% by emphasizing personal development and authenticity 
 
 **Association of Black Computer Scientists**       			             	               	    
-Corporate Officer             								                                           
+**Corporate Officer**            								                                           
 -	Facilitate and Initiate opportunities such as workshops, corporate relationships, and professional development
 
 -	Coordinate and execute hackathons and personal projects for members to become well rounded
 
 # Interests 
-Languages: Fluent in Spanish, Twi 
+**Languages:** Fluent in Spanish, Twi 
 
-Interests: Artificial Intelligence, Data Science, Quantitative UX Research, Business Technology Solutions, HealthTech
+**Interests:** Artificial Intelligence, Data Science, Quantitative UX Research, Business Technology Solutions, HealthTech
 
-Work Eligibility: Eligible to work in the U.S. with no restrictions
+**Work Eligibility:** Eligible to work in the U.S. with no restrictions
 
