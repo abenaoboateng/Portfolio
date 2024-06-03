@@ -32,21 +32,26 @@ Programming Languages: Advanced – R, Python. Proficient  –, SQL. Familiar wi
 Software: R Studio, Visual Studio, Jupyter Hub, Anaconda 
 
 # Work Experience 
-**Cornell University: AI/ML Break Through Tech Fellow                                                                   (_May 2024 - Present_)**
+**Cornell University: AI/ML Break Through Tech Fellow                                                                  
+(_May 2024 - Present_)**
+
 - Mastering the machine learning pipeline: data exploration and preparation techniques, modeling and validation tools, and technologies
 including Pandas, Numpy, and Scikit-learn
 - Analyzing real-world data sets, identifying patterns and relationships to approach real-world business problems, to create my own ML models, train, and implement these in the most effective way
 
 
 **Deloitte**
-**AI and Data Engineering Intern, Bussiness Technology Solutions	- US Government(_June 2023 - Aug 2023_)**         
+**AI and Data Engineering Intern, Bussiness Technology Solutions	- US Government
+(_June 2023 - Aug 2023_)**         
 - Visualized test data using Python and R programming to showcase a 9% impact from automation to clients
   
 - Developed Data System Solutions using SDLC that solved 11% of database issues with system communication
   
 - Conducted research on automation solutions with generative AI initiatives for Company Partners 
 
-**Lead Coding Lab Teaching Assistant in R and Python(_Aug 2023 - Present_)**                                              
+**Lead Coding Lab Teaching Assistant in R and Python
+(_Aug 2023 - Present_)**              
+
 - Nurture students exploration and examination of data science tools such as data wrangling, and exploratory data analysis
 
 - Facilitate the learning of data visualization methods, markdown and data workflow and classification methods
