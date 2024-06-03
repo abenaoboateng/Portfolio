@@ -32,8 +32,7 @@ Programming Languages: Advanced – R, Python. Proficient  –, SQL. Familiar wi
 Software: R Studio, Visual Studio, Jupyter Hub, Anaconda 
 
 # Work Experience 
-**Cornell University: AI/ML Break Through Tech Fellow                                                                  
-(_May 2024 - Present_)**
+**Cornell University: AI/ML Break Through Tech Fellow                                                                  (_May 2024 - Present_)**
 
 - Mastering the machine learning pipeline: data exploration and preparation techniques, modeling and validation tools, and technologies
 including Pandas, Numpy, and Scikit-learn
