@@ -15,18 +15,29 @@ The University of Texas at Austin (_May 2025_)
 - Certficate, Business Spanish 
 - Certficate, Spanish for Medical Professions
 
+Cornell Unverity: Cornell Tech (_May 2025_)
+- AI/ML Break Through Fellow
+- Machine Learning Engineering
+- AI Studio 
+
 ## Relevant Coursework: 
 Data Analysis for Health Sciences, Genetics and Biostatistics with R software,
-Elements of Data Science with R, SQL and Python, Calculus, Probability and Statistics, 
-Elements of Computer Programming, Data Visualization in R, Health Behavior Theory, 
-Health Policy 
+Elements of Data Science with R, SQL and Python, Calculus, Probability and Statistics, Epidemiology
+Elements of Computer Programming, Fundamentals of Computer Science, Data Visualization Principles in R, Health Behavior Theory, 
+Health Policy, Machine Learning Engineering
+
 
 ## Technical Skills 
-Programming Languages: Advanced – R, Proficient  – Python, SQL Familiar – with HTML
-Software: R Studio, Visual Studio, Jupyter Hub
+Programming Languages: Advanced – R, Python. Proficient  –, SQL. Familiar with HTML
+Software: R Studio, Visual Studio, Jupyter Hub, Anaconda 
 
 # Work Experience 
-**Deloitte** 		                                                                           
+**Cornell University: AI/ML Break Through Tech Fellow                                                                   (_May 2024 - Present_)**
+- Mastering the machine learning pipeline: data exploration and preparation techniques, modeling and validation tools, and technologies including Pandas, Numpy, and Scikit-learn
+- Analyzing real-world data sets, identifying patterns and relationships to approach real-world business problems, to create my own ML models, train, and implement these in the most effective way
+
+
+**Deloitte**
 **AI and Data Engineering Intern, Bussiness Technology Solutions	- US Government(_June 2023 - Aug 2023_)**         
 - Visualized test data using Python and R programming to showcase a 9% impact from automation to clients
   
