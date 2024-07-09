@@ -29,34 +29,49 @@ Health Policy, Machine Learning Engineering
 
 ## Technical Skills 
 Programming Languages: Advanced – R, Python. Proficient  –, SQL. Familiar with HTML
-Software: R Studio, Visual Studio, Jupyter Hub, Anaconda 
+Software: R Studio, Visual Studio, Jupyter Hub, Anaconda, TensorFlow, Git/Github
+
 
 # Work Experience 
 **Cornell University: AI/ML Break Through Tech Fellow                                                                  (_May 2024 - Present_)**
 
-- Mastering the machine learning pipeline: data exploration and preparation techniques, modeling and validation tools, and technologies
-including Pandas, Numpy, and Scikit-learn
-- Analyzing real-world data sets, identifying patterns and relationships to approach real-world business problems, to create my own ML models, train, and implement these in the most effective way
+- Executing the machine learning pipeline, proficient in data exploration, preparation techniques, modeling, validation tools, and technologies including Pandas, Keras, TensorFlow, NumPy, and Scikit-learn.
 
+- Analyzing real-world datasets to identify patterns and relationships, solving business problems by developing customized ML models and implementing them effectively.
 
-**Deloitte**
-**AI and Data Engineering Intern, Bussiness Technology Solutions	- US Government
-(_June 2023 - Aug 2023_)**         
-- Visualized test data using Python and R programming to showcase a 9% impact from automation to clients
-  
-- Developed Data System Solutions using SDLC that solved 11% of database issues with system communication
-  
-- Conducted research on automation solutions with generative AI initiatives for Company Partners 
+- Specialized in supervised and unsupervised techniques, focusing on regression, classification, and neural networks to derive actionable insights
+
+- Managed AI Studio machine learning project implementations, delivering tailored solutions for Fortune 500 Companies.
 
 **Lead Coding Lab Teaching Assistant in R and Python
 (_Aug 2023 - Present_)**              
 
-- Nurture students exploration and examination of data science tools such as data wrangling, and exploratory data analysis
+- Nurturing 100+ students’ each on methods of data wrangling, exploratory data analysis, and machine learning `
 
-- Facilitate the learning of data visualization methods, markdown and data workflow and classification methods
+- Facilitating student research projects, fostering critical thinking and hands-on experience in real-world data applications as they master sophisticated data visualization techniques and aptitudes
 
-- Emphasize the importance and applications of R and Python languages to improve student growth and learning
+- Demonstrating practical applications of R and Python, significantly enhancing student growth and proficiency
 
+
+**Deloitte**
+**Integrated Services AI Implementation, Business Technology Solutions - US Government
+(_June 2024 - Aug 2024_)**         
+
+- Designed and implemented a sophisticated Robotic Process Automation (RPA) tool to streamline repetitive tasks, resulting in a 21% increase in team productivity enhancing and utilization of AI within the team's operational agile framework.
+
+- Conducted user research focus groups to delve into human-centered design thinking generating customized AI use cases within the team, ensuring alignment with user needs and operational efficiency in technical project management methods.
+
+- Participated in a generative AI solution case competition as a dedicated model developer by executing four bespoke user test cases with a focus on human-centered design principles, simulating significant time savings for government professionals.
+
+  
+**Deloitte**
+**AI and Data Engineering Intern, Bussiness Technology Solutions	- US Government
+(_June 2023 - Aug 2023_)**         
+- Utilized Python and R programming to visualize test data, demonstrating a 9% efficiency gain through automation for clients.
+  
+- Engineered Data System Solutions using SDLC, effectively resolving 11% of database communication issues.
+
+- Researched automation solutions, focusing on generative AI initiatives in software and product development life cycles.
 
 # Projects 
 
@@ -124,6 +139,21 @@ By no means was this project easy, however the challenge itself highlighted the 
 To effectively classify the medical costs utilizing the variables smoker status, region,and number of children on the insurance plan through a logistic regression model has produced less than effective results. Using the root square mean value to discern the error margin a large value of approximately $7,500 produce, identifying this limitation significantly skewed predicted charges that affect accurate classification. Creating PAM clustering with the categorical variables using Gower’s dissimilarities hints this idea of smoking status being the prime significant effect in classification by the only two ‘yes’ clusters by having well over average billed health insurance charges. Despite the limitations of the model, some discernment of the effect of the variables can be deciphered knowing that smoking status is significant and number of children having some slight impact while region appears insignificant.
 
 # Leadership and Professional Development 
+
+**herScript – Black Women in Tech Initiative**			             	               	                      
+**_Co-Founder, Non-Profit Director & Co-President_** 								                                               
+- Established three chapters across Texas for herScript, a nonprofit fostering an environment for Black women in technology careers.
+  
+- Empower members to cultivate their career stories and build a supportive community through statewide programs and community events.
+  
+- Create opportunities for personal and professional growth by organizing impactful community events and statewide programs for Black women in tech.
+  
+- Spearhead nonprofit fundraising initiatives to support organizational goals and sustainability.
+  
+- Facilitate conference opportunities, including participation in conferences like AfroTech, to expand networking and professional development opportunities for members.
+
+
+
 **Management Leadership for Tomorrow (MLT)** 						                                    
 **_Career Preparation Fellow_**								                                              
 -	Selected among thousands of high achieving applicants to participate in professional and leadership development
@@ -131,14 +161,6 @@ To effectively classify the medical costs utilizing the variables smoker status,
 -	Complete business case studies and assignments to grow leadership and technical skills
 
 -	Attend conferences hosted by industry leaders, such as Deloitte, LinkedIn, and Target
-
-**herScript(Black Women in Tech)**			             	               	                      
-**_Co-Founder & Co-President_** 								                                               
--	Facilitate and Initiate opportunities such as Workshops, Corporate Relationships, and Professional Development
-
--	Expose ways to apply the technology world to different industries such as healthcare and entertainment	
-
--	Increasing the Black Women in Tech on campus by 40% by emphasizing personal development and authenticity 
 
 **Association of Black Computer Scientists**       			             	               	    
 **_Corporate Officer_**            								                                           
@@ -149,7 +171,8 @@ To effectively classify the medical costs utilizing the variables smoker status,
 # Interests 
 **Languages:** Fluent in Spanish, Twi 
 
-**Interests:** Artificial Intelligence, Data Science, Quantitative UX Research, Business Technology Solutions, HealthTech
+**Interests:** Artificial Intelligence, Data Science, Quantitative UX Research, Healthcare Technology, Technical Program Management
+
 
 **Work Eligibility:** Eligible to work in the U.S. with no restrictions
 
