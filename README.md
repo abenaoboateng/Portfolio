@@ -21,18 +21,23 @@ Cornell Unverity: Cornell Tech (_May 2025_)
 - AI Studio 
 
 ## Relevant Coursework: 
-Data Analysis for Health Sciences, Genetics and Biostatistics with R software,
-Elements of Data Science with R, SQL and Python, Calculus, Probability and Statistics, Epidemiology
-Elements of Computer Programming, Fundamentals of Computer Science, Data Visualization Principles in R, Health Behavior Theory, 
-Health Policy, Machine Learning Engineering
+Data Analysis for Health Sciences (R), Biostatistics (R), Data Science(Python and R), Probability and Statistics, Epidemiology, Computer Science (Python), Data Visualization, Machine Learning Engineering (Python), Linear Regression, Health Behavior Theory, Health Policy
 
 
 ## Technical Skills 
-Programming Languages: Advanced – R, Python. Proficient  –, SQL. Familiar with HTML
-Software: R Studio, Visual Studio, Jupyter Hub, Anaconda, TensorFlow, Git/Github
+Programming Languages:R, Python, SQL
+Software: R Studio, Visual Studio, JupyterHub, Anaconda, TensorFlow, PyTorch, Git/GitHub, Jira, Agile Development, Postman API Certified                                     
 
 
 # Work Experience 
+**Planned Parenthood Federation of America                                                                   (_August 2024 - Present_)**
+
+- Spearheading research on AI-enhanced chatbot design for Planned Parenthood's Roo, ensuring the delivery of user-centered, relevant, and accessible sexual health information to adolescents through natural language processing (NLP)
+
+- Developing and refining a machine learning model to improve the user experience by detecting and classifying errors in chatbot responses, enhancing the clarity and accuracy of information provided
+
+- Conducting user performance analysis by monitoring real-time chatbot interactions, gathering insights to inform iterative design improvements that optimize engagement and effectiveness for teens aged 13-17
+
 **Cornell University: AI/ML Break Through Tech Fellow                                                                  (_May 2024 - Present_)**
 
 - Executing the machine learning pipeline, proficient in data exploration, preparation techniques, modeling, validation tools, and technologies including Pandas, Keras, TensorFlow, NumPy, and Scikit-learn.
